@@ -4,15 +4,19 @@
 
 Used stack:    
 <br>1 Spring Boot v3.1.5 <br/>
-2 Docker version 20.10.16, build aa7e414
-3 Docker-Compose version 1.29.2, build 5becea4c
-4 SpringDoc OpenAPI Starter (Swagger-UI 2.2.0)
-5 PostgreSQL 
-6 Lombok
-7 Maven 
-8 Postman
-9 RestAPI
-10 
+<br>2 Docker version 20.10.16, build aa7e414<br/>
+<br>3 Docker-Compose version 1.29.2, build 5becea4c<br/>
+<br>4 SpringDoc OpenAPI Starter (Swagger-UI 2.2.0)<br/>
+<br>5 PostgreSQL <br/>
+<br>6 Lombok<br/>
+<br>7 Maven <br/>
+<br>8 Postman<br/>
+<br>9 RestAPI<br/>
+<br><br/>
+<br><br/>
+<br>10 <br/>
+
+
 
 
 
