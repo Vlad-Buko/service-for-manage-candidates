@@ -1,8 +1,9 @@
 # service-for-manage-candidates
 
 Сервис для управления кандидатами.
-Used stack:
-1 Spring Boot v3.1.5
+
+Used stack:    
+<br>1 Spring Boot v3.1.5 <br/>
 2 Docker version 20.10.16, build aa7e414
 3 Docker-Compose version 1.29.2, build 5becea4c
 4 SpringDoc OpenAPI Starter (Swagger-UI 2.2.0)
